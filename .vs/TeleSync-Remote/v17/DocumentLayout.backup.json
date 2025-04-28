@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFB6C6-47B3-6F9B-367F-6981D17D05CE}|Assembly-CSharp.csproj|D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\assets\\scripts\\wscommunicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFB6C6-47B3-6F9B-367F-6981D17D05CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wscommunicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFB6C6-47B3-6F9B-367F-6981D17D05CE}|Assembly-CSharp.csproj|D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\assets\\scripts\\udpcommunicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFB6C6-47B3-6F9B-367F-6981D17D05CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\udpcommunicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCE3494-8C65-564B-49C7-0868D989A86B}|endel.nativewebsocket.csproj|d:\\unityprojects\\unitygaussiansplatting\\projects\\telesync-remote\\assets\\websocket\\websocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCE3494-8C65-564B-49C7-0868D989A86B}|endel.nativewebsocket.csproj|solutionrelative:assets\\websocket\\websocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFB6C6-47B3-6F9B-367F-6981D17D05CE}|Assembly-CSharp.csproj|D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\assets\\scripts\\partnersavatarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFB6C6-47B3-6F9B-367F-6981D17D05CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\partnersavatarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFB6C6-47B3-6F9B-367F-6981D17D05CE}|Assembly-CSharp.csproj|D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\assets\\scripts\\usersposture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFB6C6-47B3-6F9B-367F-6981D17D05CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\usersposture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFB6C6-47B3-6F9B-367F-6981D17D05CE}|Assembly-CSharp.csproj|D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\assets\\scripts\\posture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFB6C6-47B3-6F9B-367F-6981D17D05CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\posture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebSocket.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\Assets\\WebSocket\\WebSocket.cs",
+              "RelativeDocumentMoniker": "Assets\\WebSocket\\WebSocket.cs",
+              "ToolTip": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\Assets\\WebSocket\\WebSocket.cs",
+              "RelativeToolTip": "Assets\\WebSocket\\WebSocket.cs",
+              "ViewState": "AgIAAHsBAAAAAAAAAIA0wKgBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:55:26.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WSCommunicationManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\Assets\\Scripts\\WSCommunicationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WSCommunicationManager.cs",
+              "ToolTip": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\Assets\\Scripts\\WSCommunicationManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WSCommunicationManager.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAxwLoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:16:57.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UDPCommunicationManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\Assets\\Scripts\\UDPCommunicationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UDPCommunicationManager.cs",
+              "ToolTip": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\Assets\\Scripts\\UDPCommunicationManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UDPCommunicationManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAArwE4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:35:17.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartnersAvatarManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\Assets\\Scripts\\PartnersAvatarManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PartnersAvatarManager.cs",
+              "ToolTip": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\Assets\\Scripts\\PartnersAvatarManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PartnersAvatarManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T06:28:44.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersPosture.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\Assets\\Scripts\\UsersPosture.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UsersPosture.cs",
+              "ToolTip": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\Assets\\Scripts\\UsersPosture.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UsersPosture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T06:27:57.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Posture.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\Assets\\Scripts\\Posture.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Posture.cs",
+              "ToolTip": "D:\\UnityProjects\\UnityGaussianSplatting\\projects\\TeleSync-Remote\\Assets\\Scripts\\Posture.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Posture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T06:27:46.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

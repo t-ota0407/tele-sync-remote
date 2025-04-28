@@ -1,0 +1,52 @@
+# ========== Unity用 .gitignore ==========
+
+# OS別無駄ファイル
+.DS_Store
+Thumbs.db
+
+# Unityのキャッシュや自動生成ファイル
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+
+# Unityのパッケージ管理キャッシュ
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Unity Collaborate用ファイル（使ってないなら除外）
+.collabignore
+
+# Visual Studio/JetBrains RiderなどIDE関連
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# その他ビルド成果物やログ
+*.log
+
+# Crash Reports
+sysinfo.txt
+
+# LFS対象にしたくない大容量ファイル（除外したいなら）
+# *.mp4
+# *.zip
+
+# もしAddressable Assets System使っている場合
+#（使ってるならコメントアウトを外す）
+# /ServerData/
+
+#（必要に応じて追加で除外するものを記載）
+
+# ========== end of Unity用 .gitignore ==========
